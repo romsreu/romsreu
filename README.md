@@ -4,7 +4,7 @@ Welcome to my GitHub profile.
 
 Here you'll find two types of projects:
 -  **[U]niversity projects** — academic work from my degree at UTN.
--  **[P]ersonal projects** — things I build to learn, experiment, and have fun coding.
+-  **[P]ersonal projects** — things I build to learn and experiment.
 
 I’m currently working on: [**Hotel_Premier**](https://github.com/romsreu/Hotel_Premier)
 
