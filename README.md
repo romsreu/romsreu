@@ -1,11 +1,1 @@
-# Hi there! 👋 I'm Román.
-
-<div align="center">
-
-Here you'll find two types of projects:
-
-|  **[U]niversity projects** |  **[P]ersonal projects** |
-|:---:|:---:|
-| Academic work from my degree at UTN | Things I build to learn and experiment |
-
-</div>
+<img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/f7943388-8525-48f6-ad15-511b77b4510f" />
